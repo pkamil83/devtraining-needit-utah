@@ -1,0 +1,7 @@
+- name: Call calc.py
+  hosts: localhost
+  gather_facts: false
+
+  tasks:
+    - name: Run calc.py
+      command: python calc.py
