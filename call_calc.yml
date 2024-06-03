@@ -4,4 +4,4 @@
 
   tasks:
     - name: Run calc.py
-      command: python calc.py
+      command: python3 calc.py
