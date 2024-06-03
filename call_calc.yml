@@ -5,3 +5,4 @@
   tasks:
     - name: Run calc.py
       command: python /Users/pres/git/training/training_repo/calc.py
+      #comment
